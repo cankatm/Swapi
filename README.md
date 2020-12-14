@@ -1,7 +1,7 @@
 # Swapi
 
-`yarn`
+### `yarn`
 
-`yarn run test`
-`yarn run ios`
-`yarn run android`
+### `yarn run test`
+### `yarn run ios`
+### `yarn run android`
